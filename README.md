@@ -51,7 +51,7 @@ The app works best with the **Online Retail Dataset** (UCI) or similar data havi
 
 ##  How to Run Locally
 
-### 1️Clone the repository
+### 1️ Clone the repository
 ```bash
 git clone https://github.com/<your-username>/customer-segmentation-streamlit.git
 cd customer-segmentation-streamlit
